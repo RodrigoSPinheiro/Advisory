@@ -1,0 +1,2 @@
+# Advisory
+Publicação de Vulnerabilidades
