@@ -1,4 +1,4 @@
-# Reflected XSS Security Advisory — English
+# Reflected XSS Security Advisory
 
 Open `Reflected_XSS_Security_Advisory_EN.md` in a Markdown viewer. Keep the `evidence/` directory alongside it to display the embedded screenshots.
 
